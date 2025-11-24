@@ -1,7 +1,10 @@
 # 🎮 Tic Tac Toe Game
 
 A simple and interactive Tic Tac Toe game built using **HTML, CSS, and JavaScript**.  
-This project focuses on DOM manipulation, event handling, game logic, and UI interactions.
+This project focuses on DOM manipulation, event handling, game logic, and UI interactions. 
+
+🔗 **Live Project:**  
+https://priyamvada554.github.io/Tic-Tac-Toe-Game/
 
 ---
 
